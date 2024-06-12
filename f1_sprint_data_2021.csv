@@ -1,0 +1,43 @@
+driver_id,constructor_id,race_id,race_name,season,sprint_startposition,sprint_endposition,overtakes_made,dnf
+max_verstappen,red_bull,10,British Grand Prix,2021,2.0,1.0,0.0,0
+hamilton,mercedes,10,British Grand Prix,2021,1.0,2.0,0.0,0
+bottas,mercedes,10,British Grand Prix,2021,3.0,3.0,0.0,0
+leclerc,ferrari,10,British Grand Prix,2021,4.0,4.0,0.0,0
+norris,mclaren,10,British Grand Prix,2021,6.0,5.0,1.0,0
+ricciardo,mclaren,10,British Grand Prix,2021,7.0,6.0,2.0,0
+alonso,alpine,10,British Grand Prix,2021,11.0,7.0,0.0,0
+russell,williams,10,British Grand Prix,2021,8.0,9.0,1.0,0
+ocon,alpine,10,British Grand Prix,2021,13.0,10.0,1.0,0
+sainz,ferrari,10,British Grand Prix,2021,9.0,11.0,6.0,0
+gasly,alphatauri,10,British Grand Prix,2021,12.0,12.0,1.0,0
+stroll,aston_martin,10,British Grand Prix,2021,15.0,14.0,1.0,0
+tsunoda,alphatauri,10,British Grand Prix,2021,16.0,16.0,1.0,0
+perez,red_bull,10,British Grand Prix,2021,5.0,20.0,1.0,1
+bottas,mercedes,14,Italian Grand Prix,2021,1.0,1.0,0.0,0
+max_verstappen,red_bull,14,Italian Grand Prix,2021,3.0,2.0,1.0,0
+ricciardo,mclaren,14,Italian Grand Prix,2021,5.0,3.0,1.0,0
+norris,mclaren,14,Italian Grand Prix,2021,4.0,4.0,1.0,0
+hamilton,mercedes,14,Italian Grand Prix,2021,2.0,5.0,1.0,0
+leclerc,ferrari,14,Italian Grand Prix,2021,8.0,6.0,1.0,0
+sainz,ferrari,14,Italian Grand Prix,2021,7.0,7.0,1.0,0
+perez,red_bull,14,Italian Grand Prix,2021,9.0,9.0,2.0,0
+stroll,aston_martin,14,Italian Grand Prix,2021,12.0,10.0,1.0,0
+alonso,alpine,14,Italian Grand Prix,2021,13.0,11.0,2.0,0
+ocon,alpine,14,Italian Grand Prix,2021,14.0,13.0,1.0,0
+russell,williams,14,Italian Grand Prix,2021,15.0,15.0,3.0,0
+tsunoda,alphatauri,14,Italian Grand Prix,2021,17.0,16.0,3.0,0
+gasly,alphatauri,14,Italian Grand Prix,2021,6.0,20.0,0.0,1
+bottas,mercedes,19,São Paulo Grand Prix,2021,2.0,1.0,0.0,0
+max_verstappen,red_bull,19,São Paulo Grand Prix,2021,1.0,2.0,1.0,0
+sainz,ferrari,19,São Paulo Grand Prix,2021,5.0,3.0,0.0,0
+perez,red_bull,19,São Paulo Grand Prix,2021,3.0,4.0,0.0,0
+hamilton,mercedes,19,São Paulo Grand Prix,2021,20.0,5.0,10.0,0
+norris,mclaren,19,São Paulo Grand Prix,2021,7.0,6.0,1.0,0
+leclerc,ferrari,19,São Paulo Grand Prix,2021,6.0,7.0,0.0,0
+gasly,alphatauri,19,São Paulo Grand Prix,2021,4.0,8.0,0.0,0
+ocon,alpine,19,São Paulo Grand Prix,2021,10.0,9.0,0.0,0
+ricciardo,mclaren,19,São Paulo Grand Prix,2021,8.0,11.0,0.0,0
+alonso,alpine,19,São Paulo Grand Prix,2021,9.0,12.0,1.0,0
+stroll,aston_martin,19,São Paulo Grand Prix,2021,15.0,14.0,1.0,0
+tsunoda,alphatauri,19,São Paulo Grand Prix,2021,12.0,15.0,1.0,0
+russell,williams,19,São Paulo Grand Prix,2021,17.0,17.0,1.0,0

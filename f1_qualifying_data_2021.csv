@@ -1,0 +1,309 @@
+driver_id,constructor_id,race_id,race_name,season,qual_position,qual_time
+max_verstappen,red_bull,1,Bahrain Grand Prix,2021,1.0,0 days 00:01:28.997000
+hamilton,mercedes,1,Bahrain Grand Prix,2021,2.0,0 days 00:01:29.385000
+bottas,mercedes,1,Bahrain Grand Prix,2021,3.0,0 days 00:01:29.586000
+leclerc,ferrari,1,Bahrain Grand Prix,2021,4.0,0 days 00:01:29.678000
+gasly,alphatauri,1,Bahrain Grand Prix,2021,5.0,0 days 00:01:29.809000
+ricciardo,mclaren,1,Bahrain Grand Prix,2021,6.0,0 days 00:01:29.927000
+norris,mclaren,1,Bahrain Grand Prix,2021,7.0,0 days 00:01:29.974000
+sainz,ferrari,1,Bahrain Grand Prix,2021,8.0,0 days 00:01:30.215000
+alonso,alpine,1,Bahrain Grand Prix,2021,9.0,0 days 00:01:30.249000
+stroll,aston_martin,1,Bahrain Grand Prix,2021,10.0,0 days 00:01:30.601000
+perez,red_bull,1,Bahrain Grand Prix,2021,11.0,0 days 00:01:30.659000
+tsunoda,alphatauri,1,Bahrain Grand Prix,2021,13.0,0 days 00:01:31.203000
+russell,williams,1,Bahrain Grand Prix,2021,15.0,0 days 00:01:33.430000
+ocon,alpine,1,Bahrain Grand Prix,2021,16.0,0 days 00:01:31.724000
+hamilton,mercedes,2,Emilia Romagna Grand Prix,2021,1.0,0 days 00:01:14.411000
+perez,red_bull,2,Emilia Romagna Grand Prix,2021,2.0,0 days 00:01:14.446000
+max_verstappen,red_bull,2,Emilia Romagna Grand Prix,2021,3.0,0 days 00:01:14.498000
+leclerc,ferrari,2,Emilia Romagna Grand Prix,2021,4.0,0 days 00:01:14.740000
+gasly,alphatauri,2,Emilia Romagna Grand Prix,2021,5.0,0 days 00:01:14.790000
+ricciardo,mclaren,2,Emilia Romagna Grand Prix,2021,6.0,0 days 00:01:14.826000
+norris,mclaren,2,Emilia Romagna Grand Prix,2021,7.0,0 days 00:01:14.875000
+bottas,mercedes,2,Emilia Romagna Grand Prix,2021,8.0,0 days 00:01:14.898000
+ocon,alpine,2,Emilia Romagna Grand Prix,2021,9.0,0 days 00:01:15.210000
+stroll,aston_martin,2,Emilia Romagna Grand Prix,2021,10.0,
+sainz,ferrari,2,Emilia Romagna Grand Prix,2021,11.0,0 days 00:01:15.199000
+russell,williams,2,Emilia Romagna Grand Prix,2021,12.0,0 days 00:01:15.261000
+alonso,alpine,2,Emilia Romagna Grand Prix,2021,15.0,0 days 00:01:15.593000
+tsunoda,alphatauri,2,Emilia Romagna Grand Prix,2021,20.0,
+bottas,mercedes,3,Portuguese Grand Prix,2021,1.0,0 days 00:01:18.348000
+hamilton,mercedes,3,Portuguese Grand Prix,2021,2.0,0 days 00:01:18.355000
+max_verstappen,red_bull,3,Portuguese Grand Prix,2021,3.0,0 days 00:01:18.746000
+perez,red_bull,3,Portuguese Grand Prix,2021,4.0,0 days 00:01:18.890000
+sainz,ferrari,3,Portuguese Grand Prix,2021,5.0,0 days 00:01:19.039000
+ocon,alpine,3,Portuguese Grand Prix,2021,6.0,0 days 00:01:19.042000
+norris,mclaren,3,Portuguese Grand Prix,2021,7.0,0 days 00:01:19.116000
+leclerc,ferrari,3,Portuguese Grand Prix,2021,8.0,0 days 00:01:19.306000
+gasly,alphatauri,3,Portuguese Grand Prix,2021,9.0,0 days 00:01:19.475000
+russell,williams,3,Portuguese Grand Prix,2021,11.0,0 days 00:01:19.109000
+alonso,alpine,3,Portuguese Grand Prix,2021,13.0,0 days 00:01:19.456000
+tsunoda,alphatauri,3,Portuguese Grand Prix,2021,14.0,0 days 00:01:19.463000
+ricciardo,mclaren,3,Portuguese Grand Prix,2021,16.0,0 days 00:01:19.839000
+stroll,aston_martin,3,Portuguese Grand Prix,2021,17.0,0 days 00:01:19.913000
+hamilton,mercedes,4,Spanish Grand Prix,2021,1.0,0 days 00:01:16.741000
+max_verstappen,red_bull,4,Spanish Grand Prix,2021,2.0,0 days 00:01:16.777000
+bottas,mercedes,4,Spanish Grand Prix,2021,3.0,0 days 00:01:16.873000
+leclerc,ferrari,4,Spanish Grand Prix,2021,4.0,0 days 00:01:17.510000
+ocon,alpine,4,Spanish Grand Prix,2021,5.0,0 days 00:01:17.580000
+sainz,ferrari,4,Spanish Grand Prix,2021,6.0,0 days 00:01:17.620000
+ricciardo,mclaren,4,Spanish Grand Prix,2021,7.0,0 days 00:01:17.622000
+perez,red_bull,4,Spanish Grand Prix,2021,8.0,0 days 00:01:17.701000
+norris,mclaren,4,Spanish Grand Prix,2021,9.0,0 days 00:01:18.010000
+alonso,alpine,4,Spanish Grand Prix,2021,10.0,0 days 00:01:18.147000
+stroll,aston_martin,4,Spanish Grand Prix,2021,11.0,0 days 00:01:17.974000
+gasly,alphatauri,4,Spanish Grand Prix,2021,12.0,0 days 00:01:17.982000
+russell,williams,4,Spanish Grand Prix,2021,15.0,0 days 00:01:19.154000
+tsunoda,alphatauri,4,Spanish Grand Prix,2021,16.0,0 days 00:01:18.556000
+leclerc,ferrari,5,Monaco Grand Prix,2021,1.0,0 days 00:01:10.346000
+max_verstappen,red_bull,5,Monaco Grand Prix,2021,2.0,0 days 00:01:10.576000
+bottas,mercedes,5,Monaco Grand Prix,2021,3.0,0 days 00:01:10.601000
+sainz,ferrari,5,Monaco Grand Prix,2021,4.0,0 days 00:01:10.611000
+norris,mclaren,5,Monaco Grand Prix,2021,5.0,0 days 00:01:10.620000
+gasly,alphatauri,5,Monaco Grand Prix,2021,6.0,0 days 00:01:10.900000
+hamilton,mercedes,5,Monaco Grand Prix,2021,7.0,0 days 00:01:11.095000
+perez,red_bull,5,Monaco Grand Prix,2021,9.0,0 days 00:01:11.573000
+ocon,alpine,5,Monaco Grand Prix,2021,11.0,0 days 00:01:11.486000
+ricciardo,mclaren,5,Monaco Grand Prix,2021,12.0,0 days 00:01:11.598000
+stroll,aston_martin,5,Monaco Grand Prix,2021,13.0,0 days 00:01:11.600000
+russell,williams,5,Monaco Grand Prix,2021,15.0,0 days 00:01:11.830000
+tsunoda,alphatauri,5,Monaco Grand Prix,2021,16.0,0 days 00:01:12.096000
+alonso,alpine,5,Monaco Grand Prix,2021,17.0,0 days 00:01:12.205000
+leclerc,ferrari,6,Azerbaijan Grand Prix,2021,1.0,0 days 00:01:41.218000
+hamilton,mercedes,6,Azerbaijan Grand Prix,2021,2.0,0 days 00:01:41.450000
+max_verstappen,red_bull,6,Azerbaijan Grand Prix,2021,3.0,0 days 00:01:41.563000
+gasly,alphatauri,6,Azerbaijan Grand Prix,2021,4.0,0 days 00:01:41.565000
+sainz,ferrari,6,Azerbaijan Grand Prix,2021,5.0,0 days 00:01:41.576000
+norris,mclaren,6,Azerbaijan Grand Prix,2021,6.0,0 days 00:01:41.747000
+perez,red_bull,6,Azerbaijan Grand Prix,2021,7.0,0 days 00:01:41.917000
+tsunoda,alphatauri,6,Azerbaijan Grand Prix,2021,8.0,0 days 00:01:42.211000
+alonso,alpine,6,Azerbaijan Grand Prix,2021,9.0,0 days 00:01:42.327000
+bottas,mercedes,6,Azerbaijan Grand Prix,2021,10.0,0 days 00:01:42.659000
+ocon,alpine,6,Azerbaijan Grand Prix,2021,12.0,0 days 00:01:42.273000
+ricciardo,mclaren,6,Azerbaijan Grand Prix,2021,13.0,0 days 00:01:42.558000
+russell,williams,6,Azerbaijan Grand Prix,2021,15.0,0 days 00:01:42.758000
+stroll,aston_martin,6,Azerbaijan Grand Prix,2021,19.0,
+max_verstappen,red_bull,7,French Grand Prix,2021,1.0,0 days 00:01:29.990000
+hamilton,mercedes,7,French Grand Prix,2021,2.0,0 days 00:01:30.248000
+bottas,mercedes,7,French Grand Prix,2021,3.0,0 days 00:01:30.376000
+perez,red_bull,7,French Grand Prix,2021,4.0,0 days 00:01:30.445000
+sainz,ferrari,7,French Grand Prix,2021,5.0,0 days 00:01:30.840000
+gasly,alphatauri,7,French Grand Prix,2021,6.0,0 days 00:01:30.868000
+leclerc,ferrari,7,French Grand Prix,2021,7.0,0 days 00:01:30.987000
+norris,mclaren,7,French Grand Prix,2021,8.0,0 days 00:01:31.252000
+alonso,alpine,7,French Grand Prix,2021,9.0,0 days 00:01:31.340000
+ricciardo,mclaren,7,French Grand Prix,2021,10.0,0 days 00:01:31.382000
+ocon,alpine,7,French Grand Prix,2021,11.0,0 days 00:01:31.736000
+russell,williams,7,French Grand Prix,2021,14.0,0 days 00:01:32.065000
+stroll,aston_martin,7,French Grand Prix,2021,19.0,
+tsunoda,alphatauri,7,French Grand Prix,2021,20.0,
+max_verstappen,red_bull,8,Styrian Grand Prix,2021,1.0,0 days 00:01:03.841000
+bottas,mercedes,8,Styrian Grand Prix,2021,2.0,0 days 00:01:04.035000
+hamilton,mercedes,8,Styrian Grand Prix,2021,3.0,0 days 00:01:04.067000
+norris,mclaren,8,Styrian Grand Prix,2021,4.0,0 days 00:01:04.120000
+perez,red_bull,8,Styrian Grand Prix,2021,5.0,0 days 00:01:04.168000
+gasly,alphatauri,8,Styrian Grand Prix,2021,6.0,0 days 00:01:04.236000
+leclerc,ferrari,8,Styrian Grand Prix,2021,7.0,0 days 00:01:04.472000
+tsunoda,alphatauri,8,Styrian Grand Prix,2021,8.0,0 days 00:01:04.514000
+alonso,alpine,8,Styrian Grand Prix,2021,9.0,0 days 00:01:04.574000
+stroll,aston_martin,8,Styrian Grand Prix,2021,10.0,0 days 00:01:04.708000
+russell,williams,8,Styrian Grand Prix,2021,11.0,0 days 00:01:04.671000
+sainz,ferrari,8,Styrian Grand Prix,2021,12.0,0 days 00:01:04.800000
+ricciardo,mclaren,8,Styrian Grand Prix,2021,13.0,0 days 00:01:04.808000
+ocon,alpine,8,Styrian Grand Prix,2021,17.0,0 days 00:01:05.217000
+max_verstappen,red_bull,9,Austrian Grand Prix,2021,1.0,0 days 00:01:03.720000
+norris,mclaren,9,Austrian Grand Prix,2021,2.0,0 days 00:01:03.768000
+perez,red_bull,9,Austrian Grand Prix,2021,3.0,0 days 00:01:03.990000
+hamilton,mercedes,9,Austrian Grand Prix,2021,4.0,0 days 00:01:04.014000
+bottas,mercedes,9,Austrian Grand Prix,2021,5.0,0 days 00:01:04.049000
+gasly,alphatauri,9,Austrian Grand Prix,2021,6.0,0 days 00:01:04.107000
+tsunoda,alphatauri,9,Austrian Grand Prix,2021,7.0,0 days 00:01:04.273000
+russell,williams,9,Austrian Grand Prix,2021,9.0,0 days 00:01:04.591000
+stroll,aston_martin,9,Austrian Grand Prix,2021,10.0,0 days 00:01:04.618000
+sainz,ferrari,9,Austrian Grand Prix,2021,11.0,0 days 00:01:04.559000
+leclerc,ferrari,9,Austrian Grand Prix,2021,12.0,0 days 00:01:04.600000
+ricciardo,mclaren,9,Austrian Grand Prix,2021,13.0,0 days 00:01:04.719000
+alonso,alpine,9,Austrian Grand Prix,2021,14.0,0 days 00:01:04.856000
+ocon,alpine,9,Austrian Grand Prix,2021,17.0,0 days 00:01:05.051000
+hamilton,mercedes,10,British Grand Prix,2021,1.0,0 days 00:01:26.134000
+max_verstappen,red_bull,10,British Grand Prix,2021,2.0,0 days 00:01:26.209000
+bottas,mercedes,10,British Grand Prix,2021,3.0,0 days 00:01:26.328000
+leclerc,ferrari,10,British Grand Prix,2021,4.0,0 days 00:01:26.828000
+perez,red_bull,10,British Grand Prix,2021,5.0,0 days 00:01:26.844000
+norris,mclaren,10,British Grand Prix,2021,6.0,0 days 00:01:26.897000
+ricciardo,mclaren,10,British Grand Prix,2021,7.0,0 days 00:01:26.899000
+russell,williams,10,British Grand Prix,2021,8.0,0 days 00:01:26.971000
+sainz,ferrari,10,British Grand Prix,2021,9.0,0 days 00:01:27.007000
+alonso,alpine,10,British Grand Prix,2021,11.0,0 days 00:01:27.245000
+gasly,alphatauri,10,British Grand Prix,2021,12.0,0 days 00:01:27.273000
+ocon,alpine,10,British Grand Prix,2021,13.0,0 days 00:01:27.340000
+stroll,aston_martin,10,British Grand Prix,2021,15.0,0 days 00:01:27.665000
+tsunoda,alphatauri,10,British Grand Prix,2021,16.0,0 days 00:01:28.043000
+hamilton,mercedes,11,Hungarian Grand Prix,2021,1.0,0 days 00:01:15.419000
+bottas,mercedes,11,Hungarian Grand Prix,2021,2.0,0 days 00:01:15.734000
+max_verstappen,red_bull,11,Hungarian Grand Prix,2021,3.0,0 days 00:01:15.840000
+perez,red_bull,11,Hungarian Grand Prix,2021,4.0,0 days 00:01:16.421000
+gasly,alphatauri,11,Hungarian Grand Prix,2021,5.0,0 days 00:01:16.483000
+norris,mclaren,11,Hungarian Grand Prix,2021,6.0,0 days 00:01:16.489000
+leclerc,ferrari,11,Hungarian Grand Prix,2021,7.0,0 days 00:01:16.496000
+ocon,alpine,11,Hungarian Grand Prix,2021,8.0,0 days 00:01:16.653000
+alonso,alpine,11,Hungarian Grand Prix,2021,9.0,0 days 00:01:16.715000
+ricciardo,mclaren,11,Hungarian Grand Prix,2021,11.0,0 days 00:01:16.871000
+stroll,aston_martin,11,Hungarian Grand Prix,2021,12.0,0 days 00:01:16.893000
+sainz,ferrari,11,Hungarian Grand Prix,2021,15.0,
+tsunoda,alphatauri,11,Hungarian Grand Prix,2021,16.0,0 days 00:01:17.919000
+russell,williams,11,Hungarian Grand Prix,2021,17.0,0 days 00:01:17.944000
+max_verstappen,red_bull,12,Belgian Grand Prix,2021,1.0,0 days 00:01:59.765000
+russell,williams,12,Belgian Grand Prix,2021,2.0,0 days 00:02:00.086000
+hamilton,mercedes,12,Belgian Grand Prix,2021,3.0,0 days 00:02:00.099000
+ricciardo,mclaren,12,Belgian Grand Prix,2021,4.0,0 days 00:02:00.864000
+gasly,alphatauri,12,Belgian Grand Prix,2021,6.0,0 days 00:02:01.164000
+perez,red_bull,12,Belgian Grand Prix,2021,7.0,0 days 00:02:02.112000
+bottas,mercedes,12,Belgian Grand Prix,2021,8.0,0 days 00:02:02.502000
+ocon,alpine,12,Belgian Grand Prix,2021,9.0,0 days 00:02:03.513000
+norris,mclaren,12,Belgian Grand Prix,2021,10.0,
+leclerc,ferrari,12,Belgian Grand Prix,2021,11.0,0 days 00:01:57.721000
+sainz,ferrari,12,Belgian Grand Prix,2021,13.0,0 days 00:01:58.137000
+alonso,alpine,12,Belgian Grand Prix,2021,14.0,0 days 00:01:58.205000
+stroll,aston_martin,12,Belgian Grand Prix,2021,15.0,0 days 00:01:58.231000
+tsunoda,alphatauri,12,Belgian Grand Prix,2021,17.0,0 days 00:02:02.413000
+max_verstappen,red_bull,13,Dutch Grand Prix,2021,1.0,0 days 00:01:08.885000
+hamilton,mercedes,13,Dutch Grand Prix,2021,2.0,0 days 00:01:08.923000
+bottas,mercedes,13,Dutch Grand Prix,2021,3.0,0 days 00:01:09.222000
+gasly,alphatauri,13,Dutch Grand Prix,2021,4.0,0 days 00:01:09.478000
+leclerc,ferrari,13,Dutch Grand Prix,2021,5.0,0 days 00:01:09.527000
+sainz,ferrari,13,Dutch Grand Prix,2021,6.0,0 days 00:01:09.537000
+ocon,alpine,13,Dutch Grand Prix,2021,8.0,0 days 00:01:09.933000
+alonso,alpine,13,Dutch Grand Prix,2021,9.0,0 days 00:01:09.956000
+ricciardo,mclaren,13,Dutch Grand Prix,2021,10.0,0 days 00:01:10.166000
+russell,williams,13,Dutch Grand Prix,2021,11.0,0 days 00:01:10.332000
+stroll,aston_martin,13,Dutch Grand Prix,2021,12.0,0 days 00:01:10.367000
+norris,mclaren,13,Dutch Grand Prix,2021,13.0,0 days 00:01:10.406000
+tsunoda,alphatauri,13,Dutch Grand Prix,2021,15.0,0 days 00:01:11.314000
+perez,red_bull,13,Dutch Grand Prix,2021,16.0,0 days 00:01:10.530000
+bottas,mercedes,14,Italian Grand Prix,2021,1.0,0 days 00:01:19.555000
+hamilton,mercedes,14,Italian Grand Prix,2021,2.0,0 days 00:01:19.651000
+max_verstappen,red_bull,14,Italian Grand Prix,2021,3.0,0 days 00:01:19.966000
+norris,mclaren,14,Italian Grand Prix,2021,4.0,0 days 00:01:19.989000
+ricciardo,mclaren,14,Italian Grand Prix,2021,5.0,0 days 00:01:19.995000
+gasly,alphatauri,14,Italian Grand Prix,2021,6.0,0 days 00:01:20.260000
+sainz,ferrari,14,Italian Grand Prix,2021,7.0,0 days 00:01:20.462000
+leclerc,ferrari,14,Italian Grand Prix,2021,8.0,0 days 00:01:20.510000
+perez,red_bull,14,Italian Grand Prix,2021,9.0,0 days 00:01:20.611000
+stroll,aston_martin,14,Italian Grand Prix,2021,12.0,0 days 00:01:21.020000
+alonso,alpine,14,Italian Grand Prix,2021,13.0,0 days 00:01:21.069000
+ocon,alpine,14,Italian Grand Prix,2021,14.0,0 days 00:01:21.103000
+russell,williams,14,Italian Grand Prix,2021,15.0,0 days 00:01:21.392000
+tsunoda,alphatauri,14,Italian Grand Prix,2021,17.0,0 days 00:01:21.973000
+norris,mclaren,15,Russian Grand Prix,2021,1.0,0 days 00:01:41.993000
+sainz,ferrari,15,Russian Grand Prix,2021,2.0,0 days 00:01:42.510000
+russell,williams,15,Russian Grand Prix,2021,3.0,0 days 00:01:42.983000
+hamilton,mercedes,15,Russian Grand Prix,2021,4.0,0 days 00:01:44.050000
+ricciardo,mclaren,15,Russian Grand Prix,2021,5.0,0 days 00:01:44.156000
+alonso,alpine,15,Russian Grand Prix,2021,6.0,0 days 00:01:44.204000
+bottas,mercedes,15,Russian Grand Prix,2021,7.0,0 days 00:01:44.710000
+stroll,aston_martin,15,Russian Grand Prix,2021,8.0,0 days 00:01:44.956000
+perez,red_bull,15,Russian Grand Prix,2021,9.0,0 days 00:01:45.337000
+ocon,alpine,15,Russian Grand Prix,2021,10.0,0 days 00:01:45.865000
+gasly,alphatauri,15,Russian Grand Prix,2021,12.0,0 days 00:01:46.641000
+tsunoda,alphatauri,15,Russian Grand Prix,2021,13.0,0 days 00:01:46.751000
+leclerc,ferrari,15,Russian Grand Prix,2021,15.0,
+max_verstappen,red_bull,15,Russian Grand Prix,2021,20.0,
+hamilton,mercedes,16,Turkish Grand Prix,2021,1.0,0 days 00:01:22.868000
+bottas,mercedes,16,Turkish Grand Prix,2021,2.0,0 days 00:01:22.998000
+max_verstappen,red_bull,16,Turkish Grand Prix,2021,3.0,0 days 00:01:23.196000
+leclerc,ferrari,16,Turkish Grand Prix,2021,4.0,0 days 00:01:23.265000
+gasly,alphatauri,16,Turkish Grand Prix,2021,5.0,0 days 00:01:23.326000
+alonso,alpine,16,Turkish Grand Prix,2021,6.0,0 days 00:01:23.477000
+perez,red_bull,16,Turkish Grand Prix,2021,7.0,0 days 00:01:23.706000
+norris,mclaren,16,Turkish Grand Prix,2021,8.0,0 days 00:01:23.954000
+stroll,aston_martin,16,Turkish Grand Prix,2021,9.0,0 days 00:01:24.305000
+tsunoda,alphatauri,16,Turkish Grand Prix,2021,10.0,0 days 00:01:24.368000
+ocon,alpine,16,Turkish Grand Prix,2021,12.0,0 days 00:01:24.842000
+russell,williams,16,Turkish Grand Prix,2021,13.0,0 days 00:01:25.007000
+sainz,ferrari,16,Turkish Grand Prix,2021,15.0,
+ricciardo,mclaren,16,Turkish Grand Prix,2021,16.0,0 days 00:01:25.881000
+max_verstappen,red_bull,17,United States Grand Prix,2021,1.0,0 days 00:01:32.910000
+hamilton,mercedes,17,United States Grand Prix,2021,2.0,0 days 00:01:33.119000
+perez,red_bull,17,United States Grand Prix,2021,3.0,0 days 00:01:33.134000
+bottas,mercedes,17,United States Grand Prix,2021,4.0,0 days 00:01:33.475000
+leclerc,ferrari,17,United States Grand Prix,2021,5.0,0 days 00:01:33.606000
+sainz,ferrari,17,United States Grand Prix,2021,6.0,0 days 00:01:33.792000
+ricciardo,mclaren,17,United States Grand Prix,2021,7.0,0 days 00:01:33.808000
+norris,mclaren,17,United States Grand Prix,2021,8.0,0 days 00:01:33.887000
+gasly,alphatauri,17,United States Grand Prix,2021,9.0,0 days 00:01:34.118000
+tsunoda,alphatauri,17,United States Grand Prix,2021,10.0,0 days 00:01:34.918000
+ocon,alpine,17,United States Grand Prix,2021,11.0,0 days 00:01:35.377000
+alonso,alpine,17,United States Grand Prix,2021,14.0,0 days 00:01:44.549000
+russell,williams,17,United States Grand Prix,2021,15.0,
+stroll,aston_martin,17,United States Grand Prix,2021,16.0,0 days 00:01:35.983000
+bottas,mercedes,18,Mexico City Grand Prix,2021,1.0,0 days 00:01:15.875000
+hamilton,mercedes,18,Mexico City Grand Prix,2021,2.0,0 days 00:01:16.020000
+max_verstappen,red_bull,18,Mexico City Grand Prix,2021,3.0,0 days 00:01:16.225000
+perez,red_bull,18,Mexico City Grand Prix,2021,4.0,0 days 00:01:16.342000
+gasly,alphatauri,18,Mexico City Grand Prix,2021,5.0,0 days 00:01:16.456000
+sainz,ferrari,18,Mexico City Grand Prix,2021,6.0,0 days 00:01:16.761000
+ricciardo,mclaren,18,Mexico City Grand Prix,2021,7.0,0 days 00:01:16.763000
+leclerc,ferrari,18,Mexico City Grand Prix,2021,8.0,0 days 00:01:16.837000
+tsunoda,alphatauri,18,Mexico City Grand Prix,2021,9.0,0 days 00:01:17.158000
+norris,mclaren,18,Mexico City Grand Prix,2021,10.0,0 days 00:01:36.830000
+russell,williams,18,Mexico City Grand Prix,2021,13.0,0 days 00:01:18.172000
+ocon,alpine,18,Mexico City Grand Prix,2021,15.0,0 days 00:01:18.405000
+alonso,alpine,18,Mexico City Grand Prix,2021,16.0,0 days 00:01:18.452000
+stroll,aston_martin,18,Mexico City Grand Prix,2021,20.0,0 days 00:01:20.873000
+hamilton,mercedes,19,São Paulo Grand Prix,2021,1.0,0 days 00:01:07.934000
+max_verstappen,red_bull,19,São Paulo Grand Prix,2021,2.0,0 days 00:01:08.372000
+bottas,mercedes,19,São Paulo Grand Prix,2021,3.0,0 days 00:01:08.469000
+perez,red_bull,19,São Paulo Grand Prix,2021,4.0,0 days 00:01:08.483000
+gasly,alphatauri,19,São Paulo Grand Prix,2021,5.0,0 days 00:01:08.777000
+sainz,ferrari,19,São Paulo Grand Prix,2021,6.0,0 days 00:01:08.826000
+leclerc,ferrari,19,São Paulo Grand Prix,2021,7.0,0 days 00:01:08.960000
+norris,mclaren,19,São Paulo Grand Prix,2021,8.0,0 days 00:01:08.980000
+ricciardo,mclaren,19,São Paulo Grand Prix,2021,9.0,0 days 00:01:09.039000
+alonso,alpine,19,São Paulo Grand Prix,2021,10.0,0 days 00:01:09.113000
+ocon,alpine,19,São Paulo Grand Prix,2021,11.0,0 days 00:01:09.189000
+tsunoda,alphatauri,19,São Paulo Grand Prix,2021,13.0,0 days 00:01:09.483000
+stroll,aston_martin,19,São Paulo Grand Prix,2021,16.0,0 days 00:01:09.663000
+russell,williams,19,São Paulo Grand Prix,2021,18.0,0 days 00:01:09.953000
+hamilton,mercedes,20,Qatar Grand Prix,2021,1.0,0 days 00:01:20.827000
+max_verstappen,red_bull,20,Qatar Grand Prix,2021,2.0,0 days 00:01:21.282000
+bottas,mercedes,20,Qatar Grand Prix,2021,3.0,0 days 00:01:21.478000
+gasly,alphatauri,20,Qatar Grand Prix,2021,4.0,0 days 00:01:21.640000
+alonso,alpine,20,Qatar Grand Prix,2021,5.0,0 days 00:01:21.670000
+norris,mclaren,20,Qatar Grand Prix,2021,6.0,0 days 00:01:21.731000
+sainz,ferrari,20,Qatar Grand Prix,2021,7.0,0 days 00:01:21.840000
+tsunoda,alphatauri,20,Qatar Grand Prix,2021,8.0,0 days 00:01:21.881000
+ocon,alpine,20,Qatar Grand Prix,2021,9.0,0 days 00:01:22.028000
+perez,red_bull,20,Qatar Grand Prix,2021,11.0,0 days 00:01:22.346000
+stroll,aston_martin,20,Qatar Grand Prix,2021,12.0,0 days 00:01:22.460000
+leclerc,ferrari,20,Qatar Grand Prix,2021,13.0,0 days 00:01:22.463000
+ricciardo,mclaren,20,Qatar Grand Prix,2021,14.0,0 days 00:01:22.597000
+russell,williams,20,Qatar Grand Prix,2021,15.0,0 days 00:01:22.756000
+hamilton,mercedes,21,Saudi Arabian Grand Prix,2021,1.0,0 days 00:01:27.511000
+bottas,mercedes,21,Saudi Arabian Grand Prix,2021,2.0,0 days 00:01:27.622000
+max_verstappen,red_bull,21,Saudi Arabian Grand Prix,2021,3.0,0 days 00:01:27.653000
+leclerc,ferrari,21,Saudi Arabian Grand Prix,2021,4.0,0 days 00:01:28.054000
+perez,red_bull,21,Saudi Arabian Grand Prix,2021,5.0,0 days 00:01:28.123000
+gasly,alphatauri,21,Saudi Arabian Grand Prix,2021,6.0,0 days 00:01:28.125000
+norris,mclaren,21,Saudi Arabian Grand Prix,2021,7.0,0 days 00:01:28.180000
+tsunoda,alphatauri,21,Saudi Arabian Grand Prix,2021,8.0,0 days 00:01:28.442000
+ocon,alpine,21,Saudi Arabian Grand Prix,2021,9.0,0 days 00:01:28.647000
+ricciardo,mclaren,21,Saudi Arabian Grand Prix,2021,11.0,0 days 00:01:28.668000
+alonso,alpine,21,Saudi Arabian Grand Prix,2021,13.0,0 days 00:01:28.920000
+russell,williams,21,Saudi Arabian Grand Prix,2021,14.0,0 days 00:01:29.054000
+sainz,ferrari,21,Saudi Arabian Grand Prix,2021,15.0,0 days 00:01:53.652000
+stroll,aston_martin,21,Saudi Arabian Grand Prix,2021,18.0,0 days 00:01:29.368000
+max_verstappen,red_bull,22,Abu Dhabi Grand Prix,2021,1.0,0 days 00:01:22.109000
+hamilton,mercedes,22,Abu Dhabi Grand Prix,2021,2.0,0 days 00:01:22.480000
+norris,mclaren,22,Abu Dhabi Grand Prix,2021,3.0,0 days 00:01:22.931000
+perez,red_bull,22,Abu Dhabi Grand Prix,2021,4.0,0 days 00:01:22.947000
+sainz,ferrari,22,Abu Dhabi Grand Prix,2021,5.0,0 days 00:01:22.992000
+bottas,mercedes,22,Abu Dhabi Grand Prix,2021,6.0,0 days 00:01:23.036000
+leclerc,ferrari,22,Abu Dhabi Grand Prix,2021,7.0,0 days 00:01:23.122000
+tsunoda,alphatauri,22,Abu Dhabi Grand Prix,2021,8.0,0 days 00:01:23.220000
+ocon,alpine,22,Abu Dhabi Grand Prix,2021,9.0,0 days 00:01:23.389000
+ricciardo,mclaren,22,Abu Dhabi Grand Prix,2021,10.0,0 days 00:01:23.409000
+alonso,alpine,22,Abu Dhabi Grand Prix,2021,11.0,0 days 00:01:23.460000
+gasly,alphatauri,22,Abu Dhabi Grand Prix,2021,12.0,0 days 00:01:24.043000
+stroll,aston_martin,22,Abu Dhabi Grand Prix,2021,13.0,0 days 00:01:24.066000
+russell,williams,22,Abu Dhabi Grand Prix,2021,17.0,0 days 00:01:24.423000
